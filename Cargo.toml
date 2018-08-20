@@ -1,0 +1,9 @@
+[package]
+
+name = "crash_analyse"
+version = "0.0.1"
+authors = [ "Sandy <chenyuan17@mails.tsinghua.edu.cn>" ]
+
+
+[dependencies]
+lldb = "0.0.7"
